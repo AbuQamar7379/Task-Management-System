@@ -1,5 +1,5 @@
 # environment variables
-.env
+#.env
 
 # passport.js
 /src/config/

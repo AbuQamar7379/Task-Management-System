@@ -5,7 +5,7 @@ import Login from "./components/AUTH/Login/Login";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 export const config = {
-  endpoint: "http://localhost:5000",
+  endpoint: "https://task-management-backend-jcwn.onrender.com",
 };
 
 function App() {
