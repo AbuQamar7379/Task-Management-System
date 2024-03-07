@@ -3,3 +3,9 @@
 
 # passport.js
 /src/config/
+
+# passportAuth.middleware.js
+/src/middlewares/passportAuth.middleware.js
+
+#configurePassport.js
+/src/configurePassport.js
